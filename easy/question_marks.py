@@ -15,9 +15,5 @@ def QuestionsMarks(strParam):
   return True if sums != 0 and cases == sums else False
 
 
-
-  # code goes here
-  return strParam
-
 # keep this function call here 
 print(QuestionsMarks(input()))
